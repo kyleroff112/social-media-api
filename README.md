@@ -1,4 +1,4 @@
-# Social Media API
+# Social Square
 
 This is a RESTful API for a social media application built using Node.js, Express.js, and MongoDB. It allows users to create and delete thoughts, react to thoughts, and add and remove friends.
 
